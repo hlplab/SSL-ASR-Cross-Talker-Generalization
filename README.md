@@ -6,7 +6,7 @@
 
 📋 **Accepted at:** CogSci 2025 (Annual Meeting of the Cognitive Science Society)
 
-📄 **Paper:** [Link TBD - preprint coming soon]
+📄 **Paper:** [Link](https://horizon-lab.org/pubs/cogsci25.pdf)
 
 📄 **Proceedings:** *Proceedings of the Annual Meeting of the Cognitive Science Society, 47*.
 
