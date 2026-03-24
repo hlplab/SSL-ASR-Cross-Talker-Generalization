@@ -18,10 +18,6 @@
 > Society, 47.
 > ```
 
-🔗 **Repositories:**
-- [Main Repo](https://github.com/dashpulsar/Cross-Talker-Generalization) (this repo)
-- [Lab Repo](https://github.com/hlplab/SSL-ASR-Cross-Talker-Generalization)
-
 ---
 
 ## Overview
